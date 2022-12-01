@@ -1,0 +1,15 @@
+/Users/Sandra/Desktop/Programieren/advent_of_code_fh/1/calories/bin/Debug/net6.0/calories
+/Users/Sandra/Desktop/Programieren/advent_of_code_fh/1/calories/bin/Debug/net6.0/calories.deps.json
+/Users/Sandra/Desktop/Programieren/advent_of_code_fh/1/calories/bin/Debug/net6.0/calories.runtimeconfig.json
+/Users/Sandra/Desktop/Programieren/advent_of_code_fh/1/calories/bin/Debug/net6.0/calories.dll
+/Users/Sandra/Desktop/Programieren/advent_of_code_fh/1/calories/bin/Debug/net6.0/calories.pdb
+/Users/Sandra/Desktop/Programieren/advent_of_code_fh/1/calories/obj/Debug/net6.0/calories.csproj.AssemblyReference.cache
+/Users/Sandra/Desktop/Programieren/advent_of_code_fh/1/calories/obj/Debug/net6.0/calories.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Sandra/Desktop/Programieren/advent_of_code_fh/1/calories/obj/Debug/net6.0/calories.AssemblyInfoInputs.cache
+/Users/Sandra/Desktop/Programieren/advent_of_code_fh/1/calories/obj/Debug/net6.0/calories.AssemblyInfo.cs
+/Users/Sandra/Desktop/Programieren/advent_of_code_fh/1/calories/obj/Debug/net6.0/calories.csproj.CoreCompileInputs.cache
+/Users/Sandra/Desktop/Programieren/advent_of_code_fh/1/calories/obj/Debug/net6.0/calories.dll
+/Users/Sandra/Desktop/Programieren/advent_of_code_fh/1/calories/obj/Debug/net6.0/refint/calories.dll
+/Users/Sandra/Desktop/Programieren/advent_of_code_fh/1/calories/obj/Debug/net6.0/calories.pdb
+/Users/Sandra/Desktop/Programieren/advent_of_code_fh/1/calories/obj/Debug/net6.0/calories.genruntimeconfig.cache
+/Users/Sandra/Desktop/Programieren/advent_of_code_fh/1/calories/obj/Debug/net6.0/ref/calories.dll

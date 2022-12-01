@@ -1,6 +1,5 @@
 ﻿string[] lines = File.ReadAllLines("input.txt");  
 
-int max = 0;
 int sum = 0;
 int buff;
 int [] maxValues = new int [lines.Length];
@@ -9,21 +8,21 @@ int i = 0;
 foreach (string line in lines) 
 {
     if(line == "") {
-        if(max <= sum) {
-            max = maxValues[i++] = sum;
-            Console.WriteLine(sum);
-        }
+        maxValues[i++] = sum;
         sum = 0;
     }
-    else{
-        buff = int.Parse(line);
-        sum += buff;
-    }
-} 
+  
+    int.TryParse(line, out buff);
+    sum += buff;
+}
 
 Array.Resize(ref maxValues, i);
-int topThree = maxValues[i-1] + maxValues[i - 2] + maxValues[i -3];
-Console.WriteLine("Maximum: " + max);
+Array.Sort(maxValues);
+int topThree = 0;
+for(int j = 1; j <= 3; j++){
+    topThree += maxValues[i-j];
+    Console.WriteLine(maxValues[i-j]);
+
+}
+Console.WriteLine("Maximum: " + maxValues[i-1]);
 Console.WriteLine("MaxThree: " + topThree);
-
-
